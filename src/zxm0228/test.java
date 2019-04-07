@@ -3,7 +3,7 @@ package zxm0228;
 public class test {
 public static void main(String[] args) {
 
-   int b=11;
+   int b=111;
 
    StringBuffer a = new StringBuffer("");  
 
